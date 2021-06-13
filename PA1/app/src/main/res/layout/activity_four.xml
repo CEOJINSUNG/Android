@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:clickable="true"
+    tools:context=".MainActivity">
+
+    <GridLayout
+        android:id="@+id/grid_four_layout"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <GridView
+            android:id="@+id/grif_one_view"
+            android:layout_width="75dp"
+            android:layout_height="300dp"
+            android:clickable="true"
+            android:numColumns="1"
+            android:scrollbars="none"
+            android:layout_marginRight="1dp" />
+
+        <GridView
+            android:id="@+id/grif_two_view"
+            android:clickable="true"
+            android:layout_width="75dp"
+            android:layout_height="300dp"
+            android:numColumns="1"
+            android:scrollbars="none"
+            android:layout_marginRight="1dp" />
+
+        <GridView
+            android:id="@+id/grif_three_view"
+            android:clickable="true"
+            android:layout_width="75dp"
+            android:layout_height="300dp"
+            android:numColumns="1"
+            android:scrollbars="none"
+            android:layout_marginRight="1dp" />
+
+        <GridView
+            android:id="@+id/grif_four_view"
+            android:clickable="true"
+            android:layout_width="75dp"
+            android:layout_height="300dp"
+            android:numColumns="1"
+            android:scrollbars="none" />
+
+    </GridLayout>
+
+</LinearLayout>

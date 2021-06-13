@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sproject</string>
+    <string name="Home">Home</string>
+    <string name="Personal">Personal</string>
+    <string name="Club">Club</string>
+    <string name="Find">Find</string>
+</resources>

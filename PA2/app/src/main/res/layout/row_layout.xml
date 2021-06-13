@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/one"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/two"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/three"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/four"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/five"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/six"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/seven"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/eight"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/nine"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/ten"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/eleven"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/twelve"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/thirteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/fourteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/fifteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/sixteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/seventeen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/eighteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/nineteen"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+    <ImageView
+        android:id="@+id/twenty"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_margin="1dp" />
+
+</LinearLayout>
